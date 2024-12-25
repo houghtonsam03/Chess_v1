@@ -1,8 +1,8 @@
-package Pieces;
+package Chess_v1.Pieces;
 
 import java.util.ArrayList;
 
-import Game.Game;
+import Chess_v1.Game.Game;
 
 public class Bishop extends Piece {
     public String[] getPossibleMoves(Piece[][] tiles) {

@@ -1,10 +1,10 @@
-package Game;
+package Chess_v1.Game;
 import java.awt.event.*;
 import java.util.ArrayList;
 
 import javax.swing.*;
 
-import Pieces.*;
+import Chess_v1.Pieces.*;
 
 public class Game implements ActionListener {
     private String teams_turn;

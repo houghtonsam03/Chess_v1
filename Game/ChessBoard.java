@@ -1,4 +1,4 @@
-package Game;
+package Chess_v1.Game;
 import java.awt.*;
 import javax.swing.*;
 public class ChessBoard extends JPanel {

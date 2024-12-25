@@ -1,6 +1,7 @@
-package Pieces;
+package Chess_v1.Pieces;
 import java.util.ArrayList;
-import Game.Game;
+
+import Chess_v1.Game.Game;
 
 public class King extends Piece{
     private boolean hasMoved = false;
