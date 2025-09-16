@@ -1,4 +1,4 @@
-package Chess_v1.Game;
+package Game;
 
 public class Main {
 

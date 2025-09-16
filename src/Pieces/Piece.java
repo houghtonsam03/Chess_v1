@@ -1,10 +1,9 @@
-package Chess_v1.Pieces;
+package Pieces;
 
 import java.util.ArrayList;
-
 import javax.swing.*;
 
-import Chess_v1.Game.Game;
+import Game.Game;
 
 public abstract class Piece {
     protected String position;

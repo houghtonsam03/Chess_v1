@@ -1,7 +1,7 @@
-package Chess_v1.Pieces;
-import java.util.ArrayList;
+package Pieces;
 
-import Chess_v1.Game.Game;
+import java.util.ArrayList;
+import Game.Game;
 public class Knight extends Piece {
     public String[] getPossibleMoves(Piece[][] tiles) {
             int[] cords = Game.getCords(position);
